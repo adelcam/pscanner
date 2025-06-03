@@ -1,0 +1,49 @@
+# Cordova specific
+/platforms/
+/node_modules/
+/plugins/
+www/
+
+# Android specific
+.gradle/
+.idea/
+build/
+captures/
+
+# Eclipse specific
+/.metadata/
+/*.log
+/.recommenders/
+/*.bak
+/.settings/
+/bin/
+/tmp/
+
+# Visual Studio Code specific
+.vscode/
+
+# JetBrains (IntelliJ IDEA) specific
+.idea/
+
+# Android Studio specific
+.idea/
+*.iml
+.gradle/
+/local.properties
+/.android/
+build/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
